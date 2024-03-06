@@ -6,7 +6,7 @@ public class TareaArreglando {
 
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in).useLocale(Locale.US);;
+        Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         double numerosReales[]=new double[3];
         double mayor;
 
